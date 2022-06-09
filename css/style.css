@@ -17,3 +17,51 @@ html {
     line-height: 1.7;
     font-style: normal;
 }    
+.card {
+    display: inline-block;
+    max-width: 300px;
+    border: 1px solid;
+    padding: 1rem;
+    margin: 0 15px 15px 0;
+}
+.clearfix {
+    clear: both;
+}
+.group1, .group2, .group3 {  background-color: rgba(223, 221, 221, 0.795)
+
+}
+
+.card {
+    color: #FC8F8F;
+    background-color: #FC8F8F;
+    width: 200px;
+    height: 200px;
+    
+}
+.cards {
+    color: #FC8F8F;
+    background-color: #FC8F8F;
+    width: 100px;
+    height: 100px;
+    
+}
+p {
+    color:#FFFFFF;
+    font-weight: 700;font-size: 64px;line-height: 75px;
+    font-family: 'Roboto', sans-serif;
+    
+    text-align: center;
+}
+
+.container {
+    width: 100%;
+    max-width: 1142px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+   
+}
+.clearfix {
+    clear: both;
+}
